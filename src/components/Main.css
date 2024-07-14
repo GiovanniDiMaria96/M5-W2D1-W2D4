@@ -1,0 +1,23 @@
+.h {
+    text-align: center;    
+}
+.h a{
+    text-decoration: none;
+}
+ .g {
+    margin-top: 10%;
+    color: darkgray;
+ }
+
+ .f {
+    list-style-type: none;
+    display: inline-flex;
+ }
+
+ .f li {
+    margin: 10px;
+ }
+ 
+ .d {
+    margin-top: 50px;
+ }
